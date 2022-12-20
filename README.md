@@ -2,6 +2,21 @@
 
 A simple tool for machine learning requirements.
 
+## Setup
+
+1. Create an environment and activate
+
+```
+$ python3 -m venv env
+$ source env/bin/activate
+```
+
+2. Install the necessary dependencies
+
+```
+$ pip install -r requirements.txt
+```
+
 ## Modes
 
 ### `generate-data`: Create a set of data for experimentation
