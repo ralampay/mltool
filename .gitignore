@@ -7,3 +7,8 @@ mltool/__pycache__
 
 # Ignore IDE generated files
 .idea
+
+# Ignore jupyter generated files
+
+notebooks/.ipynb_checkpoints
+notebooks/**/.ipynb_checkpoints
