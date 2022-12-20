@@ -17,3 +17,6 @@ notebooks/*test.csv
 
 # Ignore tmp
 tmp
+
+# Ignore models joblib in notebooks
+notebooks/*.joblib
