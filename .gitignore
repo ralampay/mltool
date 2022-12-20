@@ -1,0 +1,9 @@
+# Ignore environment directory
+env
+
+# Ignore python generated cache
+__pycache__
+mltool/__pycache__
+
+# Ignore IDE generated files
+.idea
