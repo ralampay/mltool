@@ -12,8 +12,10 @@ mltool/__pycache__
 
 notebooks/.ipynb_checkpoints
 notebooks/**/.ipynb_checkpoints
-notebooks/*train.csv
-notebooks/*test.csv
+notebooks/x_train.csv
+notebooks/x_test.csv
+notebooks/y_train.csv
+notebooks/y_test.csv
 
 # Ignore tmp
 tmp
