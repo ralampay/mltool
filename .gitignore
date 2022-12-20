@@ -12,3 +12,5 @@ mltool/__pycache__
 
 notebooks/.ipynb_checkpoints
 notebooks/**/.ipynb_checkpoints
+notebooks/*train.csv
+notebooks/*test.csv
